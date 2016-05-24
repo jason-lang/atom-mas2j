@@ -1,0 +1,14 @@
+{
+  "name": "language-mas2j",
+  "version": "0.1.0",
+  "description": "Jason Project Language",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/jason-lang/atom-mas2j",
+  "license": "GNU LGPL",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
